@@ -2,11 +2,11 @@
 
 ## Current add-on
 
-[Download 0.7.0 for Blender](releases/sand3d_browser-0.7.0.zip) — install through Blender Preferences.
+[Download 0.7.0 for Blender](https://github.com/Mzermarts/POWER_IMPORTER_for-blender/releases/download/v0.7.0/sand3d_browser-0.7.0.zip) — install through Blender Preferences.
 
 ## Companion settings utility
 
-[Download the Windows utility](tools/MZERMARTS-PowerImporter-Reglages.exe) — requires an installed Blender, used in background mode. Close Blender first. See [the utility guide](SETTINGS_UTILITY.md).
+[Download the Windows utility](https://github.com/Mzermarts/POWER_IMPORTER_for-blender/releases/download/v0.7.0/MZERMARTS-PowerImporter-Reglages.exe) — requires an installed Blender, used in background mode. Close Blender first. See [the utility guide](SETTINGS_UTILITY.md).
 
 [Standalone settings helper](tools/mzermarts_power_importer_settings.py) and [C# utility source](tools/SettingsTool.cs).
 
@@ -25,4 +25,4 @@ These are preserved snapshots. Current repository documentation may be newer tha
 | [sand3d_browser-0.5.1.zip](releases/sand3d_browser-0.5.1.zip) | 22599 |
 | [sand3d_browser-0.6.0.zip](releases/sand3d_browser-0.6.0.zip) | 35630 |
 | [sand3d_browser-0.6.1.zip](releases/sand3d_browser-0.6.1.zip) | 37336 |
-| [sand3d_browser-0.7.0.zip](releases/sand3d_browser-0.7.0.zip) | 40266 |
+| [sand3d_browser-0.7.0.zip](https://github.com/Mzermarts/POWER_IMPORTER_for-blender/releases/download/v0.7.0/sand3d_browser-0.7.0.zip) | 40266 |

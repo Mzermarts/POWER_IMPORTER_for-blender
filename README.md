@@ -32,8 +32,8 @@ Library display names are labels in the add-on: changing them does not rename so
 
 ## Downloads and screenshots
 
-- [Installable Blender add-on 0.7.0](releases/sand3d_browser-0.7.0.zip)
-- [Windows settings utility](tools/MZERMARTS-PowerImporter-Reglages.exe)
+- [Installable Blender add-on 0.7.0](https://github.com/Mzermarts/POWER_IMPORTER_for-blender/releases/download/v0.7.0/sand3d_browser-0.7.0.zip)
+- [Windows settings utility](https://github.com/Mzermarts/POWER_IMPORTER_for-blender/releases/download/v0.7.0/MZERMARTS-PowerImporter-Reglages.exe)
 - [Release archive and companion files](DOWNLOADS.md)
 - [Screenshots and captions](docs/SCREENSHOTS.md)
 
