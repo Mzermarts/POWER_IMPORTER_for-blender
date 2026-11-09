@@ -4,7 +4,7 @@
 
 POWER IMPORTER is an independent MZERMARTS Blender add-on for finding, previewing and importing 3D models and images from local and network libraries. It brings these tasks together in Blender’s sidebar, a dedicated workspace tab or an independent Blender window.
 
-Current development milestone: **0.7.0**, tested with **Blender 5.0.0 on Windows**. User validation of this milestone is in progress. Compatibility with Blender 4.2 and 5.2 remains to be validated.
+Current pre-release: **v0.7.0**, tested with **Blender 5.0.0 on Windows**. User validation of this milestone is in progress. Compatibility with Blender 4.2 and 5.2 remains to be validated.
 
 ## How the project started
 
@@ -37,7 +37,23 @@ Library display names are labels in the add-on: changing them does not rename so
 - [Release archive and companion files](DOWNLOADS.md)
 - [Screenshots and captions](docs/SCREENSHOTS.md)
 
+### Independent browser window
+
+![POWER IMPORTER 0.7 browser window](docs/images/power-importer-0.7-browser-window.png)
+
+Isolated integration-test view: the browser displays a different scene while its explicit destination remains the working scene.
+
+### Preferences and network libraries
+
 ![POWER IMPORTER 0.7 preferences](docs/images/POWER-importer_fig_001.png)
+
+![Configuring an existing network library](docs/images/POWER-importer_fig_003.png)
+
+### Separate operation and error logs
+
+![Verified log destinations](docs/images/POWER-importer_fig_007.png)
+
+The French screenshots show example workstation paths; adapt them to your own environment.
 
 ## Installation and first use
 

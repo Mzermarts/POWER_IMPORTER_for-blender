@@ -1,0 +1,3 @@
+d67c1f363d308d6805b0b4c72c02dcd2031d580bbdd00f2d40f12d879cc9edec  sand3d_browser-0.7.0.zip
+2dd9ef9d553aea85a902f72863435e22c0d6239dd3ce7930238f1d828dcac815  MZERMARTS-PowerImporter-Reglages.exe
+2ddbcb9419ba6396994a2edb28d8d264c08dc12928960618e5010ff20d764725  mzermarts_power_importer_settings.py
