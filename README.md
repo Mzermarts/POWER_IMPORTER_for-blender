@@ -4,7 +4,7 @@
 
 POWER IMPORTER is an independent MZERMARTS Blender add-on for finding, previewing and importing 3D models and images from local and network libraries. It brings these tasks together in Blender’s sidebar, a dedicated workspace tab or an independent Blender window.
 
-Current pre-release: **v0.7.0**, tested with **Blender 5.0.0 on Windows**. User validation of this milestone is in progress. Compatibility with Blender 4.2 and 5.2 remains to be validated.
+Current pre-release: **v0.7.0**. Automated and isolated GUI tests were performed with **Blender 5.0.0 on Windows**. The maintainer also reports successful user testing with **Blender 4.2**, including direct application of library images as textures to a mesh. This confirms the exercised workflow, not every feature or asset under 4.2. Blender 5.2 remains to be validated.
 
 ## How the project started
 
@@ -30,6 +30,15 @@ Sand3D inspired the starting point. POWER IMPORTER is an independent project, wi
 
 Library display names are labels in the add-on: changing them does not rename source folders. Indexing is manual, and source files remain unchanged.
 
+## Models and textures in one browser
+
+POWER IMPORTER combines model importing with an image-library and texture workflow. Browse existing PNG and other supported image files, preview them and apply a chosen image directly to the active mesh in the destination scene. Images can also create materials, add textures to a copy of an existing material, or become image planes.
+
+This makes the tool a **Swiss Army knife for importing**: model discovery, previews, scene imports and image-based material operations share one interface and the same local/network libraries. Existing UVs are used; choosing an image does not automatically unwrap a mesh or create a UV set. Full automatic PBR-set assembly is not implemented.
+
+## Language plan
+
+The current 0.7 interface includes French labels. Upcoming revisions are planned to use English as the source language, with translations bundled inside the same installable ZIP. Users will not need to contribute translations or install a separate language file. Blender provides the translation mechanism; the add-on must supply its own translated strings. French is the first planned translation, with English as fallback. This is planned work, not an existing 0.7 localization feature.
 ## Downloads and screenshots
 
 - [Installable Blender add-on 0.7.0](https://github.com/Mzermarts/POWER_IMPORTER_for-blender/releases/download/v0.7.0/sand3d_browser-0.7.0.zip)

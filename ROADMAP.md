@@ -20,7 +20,7 @@ The long-term goal is to reduce repeated searching and preparation when building
 | 0.5.1 | Missing-texture selection/omission and two configurable logs | Isolated tests and user trials |
 | 0.6.0 | Wildcards, image actions, controlled standalone BLEND append, gallery and settings backup/restore | Isolated tests and user trials; external settings export confirmed by the user |
 | 0.6.1 | Detailed list and two thumbnail sizes; pagination beyond 500; nested output exclusion | Isolated tests and user trials with prepared thumbnails |
-| 0.7.0 | Dedicated workspace/window, explicit destination binding and gallery/sidebar separation | Implemented and tested in isolated Blender 5.0; user validation in progress |
+| 0.7.0 | Dedicated workspace/window, explicit destination binding and gallery/sidebar separation | Isolated Blender 5.0 tests; maintainer reports a successful Blender 4.2 user trial, including image-to-mesh texturing |
 
 See [CHANGELOG.md](CHANGELOG.md) for change details. Compatibility beyond the tested installation is not inferred from these milestones.
 
@@ -35,6 +35,13 @@ The utility does not require a separate Python installation. It requires Blender
 ## Planned toward 1.0
 
 The following work is planned, not available in 0.7. Ordering may change based on testing; no release dates are committed here.
+
+### Bundled localization
+
+- English source interface for upcoming revisions.
+- French translations bundled in the same ZIP through Blender translation registration.
+- Follow Blender language preferences where enabled, with English fallback.
+- No separate translation download or contribution required from users.
 
 ### Multi-selection and reusable preparation sets
 
