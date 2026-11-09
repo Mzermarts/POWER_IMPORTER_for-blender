@@ -1,0 +1,12 @@
+# Preserve releases and documentation; exclude generated/user data.
+/test-artifacts/
+**/__pycache__/
+*.py[cod]
+*.log
+*.jsonl
+logs.txt
+errors.txt
+*.blend
+*.blend1
+reglages-utilisateur-*.json
+power_importer*.json
